@@ -1,0 +1,1 @@
+This is a branch of PCSX2 made by Acmlm.  It has rerecording and savestate features but they are highly experimental right now. Expect desyncs.
